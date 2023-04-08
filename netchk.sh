@@ -2,7 +2,7 @@
 #File Name: netchk.sh
 #Author: Lewis Gill -- lewisgill.com
 #Source: https://github.com/lewisgilldotcom/scripts <--License file located here
-#Description: Runs some rudamentary checks on your network connectivity and returns some useful information for troubleshooting network issues. It return the following information:
+#Description: Runs some rudimentary checks on your network connectivity and returns some useful information for troubleshooting network issues. It return the following information:
 #[*] Your public IPv4 address
 #[*] Your public IPv6 address
 #[*] Your DNS server
